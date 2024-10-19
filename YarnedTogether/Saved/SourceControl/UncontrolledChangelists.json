@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/cburdin/Desktop/New folder/Yarned-Together/YarnedTogether/Content/Level1.umap",
+				"C:/Users/cburdin/Desktop/New folder/Yarned-Together/YarnedTogether/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/cburdin/Desktop/New folder/Yarned-Together/YarnedTogether/Content/LevelPrototyping/Materials/M_PrototypeGrid_Inst.uasset",
+				"C:/Users/cburdin/Desktop/New folder/Yarned-Together/YarnedTogether/Content/_GENERATED/cburdin/Path_EED5EF65.uasset"
+			]
+		}
+	]
+}
